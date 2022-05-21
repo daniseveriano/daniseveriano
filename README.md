@@ -1,8 +1,8 @@
-#### 👾 Desenvolvedora de Software em Formação pela Cubos Academy e Digital Innovation One;
-#### 🎓 Bacharel em Ciências Contábeis pela Universidade Federal do Espírito Santo;
-#### 🔩 Técnica em Metalurgia e Materiais pelo Instituto Federal do Espírito Santo;
-#### 🌱 Aromaterapeuta certificada pela Viver de Aromas Belo Horizonte (Prof. André Ferraz);
-#### 🐛 🦋 Em constante aprendizado!
+👾 Desenvolvedora de Software em Formação pela Cubos Academy e Digital Innovation One;
+🎓 Bacharel em Ciências Contábeis pela Universidade Federal do Espírito Santo;
+🔩 Técnica em Metalurgia e Materiais pelo Instituto Federal do Espírito Santo;
+🌱 Aromaterapeuta certificada pela Viver de Aromas Belo Horizonte (Prof. André Ferraz);
+🐛 🦋 Em constante aprendizado!
 
 ##
 
