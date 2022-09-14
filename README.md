@@ -1,4 +1,4 @@
-👾  - Desenvolvedora de Software em Formação;<br>
+👾  - Desenvolvedora de Software pela Cubos Academy;<br>
 🎓  - Bacharel em Ciências Contábeis pela Universidade Federal do Espírito Santo;<br>
 🔩  - Técnica em Metalurgia e Materiais pelo Instituto Federal do Espírito Santo;<br>
 🌸  - Aromaterapeuta certificada pela Viver de Aromas Belo Horizonte (Prof. André Ferraz);<br>
