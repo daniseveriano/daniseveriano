@@ -1,5 +1,5 @@
 🤖  - Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi;<br>
-👾  - Desenvolvedora de Software pela Cubos Academy;<br>
+👾  - Desenvolvedora Web pela Cubos Academy;<br>
 🎓  - Bacharel em Ciências Contábeis pela Universidade Federal do Espírito Santo;<br>
 ⚙   - Técnica em Metalurgia e Materiais pelo Instituto Federal do Espírito Santo;<br>
 🌸  - Aromaterapeuta certificada pela Viver de Aromas Belo Horizonte (Prof. André Ferraz);<br>
